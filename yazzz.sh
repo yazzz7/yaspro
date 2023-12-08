@@ -5,7 +5,7 @@ ENDCOLOR="\e[0m"
 clear
 echo -e "${GREEN}Installing Proxy...${ENDCOLOR}"
 sleep 1
-if [ -f "AnchProxy" ]; then
+if [ -f "AnchProxyy" ]; then
     echo -e "${RED}Deleting old proxy...${ENDCOLOR}"
     rm AnchProxyy
     sleep 1
