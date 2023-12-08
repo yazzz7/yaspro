@@ -15,4 +15,4 @@ wget -q https://github.com/yazzz7/yaspro/raw/main/ilyas
 sleep 1
 echo -e "${GREEN}Ilyas Proxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./ilyas${ENDCOLOR}"
-chmod +x ilyas
+chmod +x bangy
