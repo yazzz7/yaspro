@@ -7,12 +7,12 @@ echo -e "${GREEN}Installing Proxy...${ENDCOLOR}"
 sleep 1
 if [ -f "AnchProxy" ]; then
     echo -e "${RED}Deleting old proxy...${ENDCOLOR}"
-    rm AnchProxy
+    rm AnchProxyy
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
-wget -q https://github.com/yazzz7/yaspro/raw/main/AnchProxy
+wget -q https://github.com/yazzz7/yaspro/raw/main/AnchProxyy
 sleep 1
 echo -e "${GREEN}Ilyas Proxy is now Installed.${ENDCOLOR}"
-echo -e "${GREEN}Execute proxy with this command: ./AnchProxy${ENDCOLOR}"
-chmod +x AnchProxy
+echo -e "${GREEN}Execute proxy with this command: ./AnchProxyy${ENDCOLOR}"
+chmod +x AnchProxyy
