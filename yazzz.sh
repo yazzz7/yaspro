@@ -14,5 +14,5 @@ fi
 wget -q https://github.com/yazzz7/yaspro/raw/main/LuckyProxy
 sleep 1
 echo -e "${GREEN}Ilyas Proxy is now Installed.${ENDCOLOR}"
-echo -e "${GREEN}Execute proxy with this command: ./ilyas${ENDCOLOR}"
-chmod +x bangy
+echo -e "${GREEN}Execute proxy with this command: ./LuckyProxy${ENDCOLOR}"
+chmod +x LuckyProxy
