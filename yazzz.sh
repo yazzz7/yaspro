@@ -14,5 +14,5 @@ fi
 wget -q https://github.com/yazzz7/yaspro/raw/main/AnchProxy
 sleep 1
 echo -e "${GREEN}Ilyas Proxy is now Installed.${ENDCOLOR}"
-echo -e "${GREEN}Execute proxy with this command: ./aprox${ENDCOLOR}"
-chmod +x aprox
+echo -e "${GREEN}Execute proxy with this command: ./AnchProxy${ENDCOLOR}"
+chmod +x AnchProxy
